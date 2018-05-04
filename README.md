@@ -11,13 +11,18 @@
 ||*.github.io^
 ||*.github.com^
 ||*.github.org^
+||*.expo.io^
 ||*.zeplin.io^
+
+! ------ steam ---------
+||*.steamcommunity.com^
+||*.steampowered.com^
 
 
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 
-! ------ ip测试 ----------
+! ------ ip测试 --------
 ||ip.cn^
 ||*.speedtest.net^
 ```
