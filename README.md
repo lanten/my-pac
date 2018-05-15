@@ -7,6 +7,7 @@
 ! 格式：||*.xxxx.xxx^
 ! -----------------------
 
+||wakatime.com^
 ||*.mozilla.org^
 ||github.io^
 ||*.github.io^
