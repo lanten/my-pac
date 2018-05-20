@@ -7,6 +7,8 @@
 ! 格式：||*.xxxx.xxx^
 ! -----------------------
 
+||*.origin.com^
+||*.namecheap.com^
 ||wakatime.com^
 ||*.mozilla.org^
 ||github.io^
